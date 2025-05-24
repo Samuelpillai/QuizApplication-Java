@@ -33,13 +33,12 @@ This project showcases object-oriented design, interface-driven architecture, de
 ## 📁 3. Project Structure
 
 QuizApplication/
-│
 ├── src/
-│   ├── Factory/             # QuestionFactory, StudentFactory
-│   ├── Implementations/     # FreeResponseQuestion, QuizImpl, StudentImpl, etc.
-│   ├── Interfaces/          # Question, QuizGenerator, Student, etc.
-│   ├── Model/               # QuizSystem, StudentStatisticsImpl
-│   └── JunitTesting/        # FactoryTest, QuizSystemTest, etc.
+│   ├── Factory/               # QuestionFactory, StudentFactory
+│   ├── Implementations/       # FreeResponseQuestion, QuizImpl, StudentImpl
+│   ├── Interfaces/            # Question, QuizGenerator, Student, etc.
+│   ├── Model/                 # QuizSystem, StudentStatisticsImpl
+│   └── JunitTesting/          # FactoryTest, QuizSystemTest, etc.
 │
 ├── docs/
 │   ├── QuizApplicationDocumentation.pdf
