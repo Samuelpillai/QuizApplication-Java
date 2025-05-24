@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# ========================
+# Java & IntelliJ Settings
+# ========================
+
+# Compiled class files
+*.class
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# Output folders
+out/
+build/
+
+# System & OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env files (if any)
+.env
+.env.local
