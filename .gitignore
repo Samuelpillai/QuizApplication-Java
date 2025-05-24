@@ -1,29 +1,27 @@
-### IntelliJ IDEA ###
+# ==========================
+# Java & IntelliJ Project
+# ==========================
+
+# Bytecode files
+*.class
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
+# VS Code settings (if used)
 .vscode/
 
-### Mac OS ###
+# macOS system files
 .DS_Store
+
+# Logs
+*.log
+
+# Test or build output folders (if ever used)
+build/
+bin/
+
+# Environment files (if any)
+.env
