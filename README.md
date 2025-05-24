@@ -122,11 +122,4 @@ Please feel free to explore the repo, review the UML, and reach out for more inf
 
 ⸻
 
-✅ You can now:
-	•	Add this file to your GitHub repo as README.md
-	•	Push your full project (with clean structure and .gitignore)
-	•	Link this repo to your portfolio with a “View Code” button
-
-Let me know if you’d like help exporting your .drawio file as .png or need a badge row for Java version, license, or test coverage.
-
 ---
