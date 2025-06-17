@@ -1,4 +1,4 @@
-# 📚 Quiz Application – Java Coursework (MSc Cloud Computing)
+# 📚 Quiz Application – Java
 
 A modular, scalable, and extensible **Java-based assessment and quiz system** designed and implemented as part of the **Advanced Programming in Java** module in the MSc Cloud Computing program at Newcastle University.
 
